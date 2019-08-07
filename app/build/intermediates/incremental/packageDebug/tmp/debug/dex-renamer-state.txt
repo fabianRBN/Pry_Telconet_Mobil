@@ -1,0 +1,4 @@
+#Wed Jul 31 11:43:58 COT 2019
+base.0=C\:\\Users\\ftoapanta\\Documents\\Proyectos\\Telconet\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
